@@ -1,0 +1,265 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84220457,9.024007899 ]
+    },
+    "properties": {
+    "Place":"GAST Entertainment"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.81353712,9.020786688 ]
+    },
+    "properties": {
+    "Place":"Century Mall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.84030034,8.968018341 ]
+    },
+    "properties": {
+    "Place":"ICT Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.694642,9.008012301 ]
+    },
+    "properties": {
+    "Place":"Tutto Gelato"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.69737731,8.983302766 ]
+    },
+    "properties": {
+    "Place":"Ayer Tena Seconadary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.76655675,9.032742854 ]
+    },
+    "properties": {
+    "Place":"Holy Trinity Cathedral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.72447021,9.078585643 ]
+    },
+    "properties": {
+    "Place":"Gulele Botanic Garden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7700311,8.897808264 ]
+    },
+    "properties": {
+    "Place":"Kaliti Bus Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.87850075,9.057444636 ]
+    },
+    "properties": {
+    "Place":"Tafo Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.76210402,9.08726198 ]
+    },
+    "properties": {
+    "Place":"Entoto Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.77917593,8.990554337 ]
+    },
+    "properties": {
+    "Place":"Korma Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.74618303,8.947449059 ]
+    },
+    "properties": {
+    "Place":"Kebron Guest House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.72154632,9.06360676 ]
+    },
+    "properties": {
+    "Place":"Shegole Mender 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.76081277,9.065695706 ]
+    },
+    "properties": {
+    "Place":"Shiro Meda Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.78345971,9.047187995 ]
+    },
+    "properties": {
+    "Place":"Embassy of Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7613621,9.011284352 ]
+    },
+    "properties": {
+    "Place":"Meskel Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.78659614,8.998682031 ]
+    },
+    "properties": {
+    "Place":"Edna  Mall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.73534395,8.938128455 ]
+    },
+    "properties": {
+    "Place":"Haile Garment Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.80306243,8.857492094 ]
+    },
+    "properties": {
+    "Place":"UNISA Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.69221797,9.064997689 ]
+    },
+    "properties": {
+    "Place":"Asko Gebriel NOC gas station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.79650442,9.079075874 ]
+    },
+    "properties": {
+    "Place":"Tizita and Tariku Food Preparation P/shop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.86186608,8.950665779 ]
+    },
+    "properties": {
+    "Place":"Zendo Asra Baeta Mariam Church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.85232287,9.003619497 ]
+    },
+    "properties": {
+    "Place":"Summit Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.81030221,8.887438686 ]
+    },
+    "properties": {
+    "Place":"Addis Ababa Science and Technology"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.73158231,9.047613111 ]
+    },
+    "properties": {
+    "Place":"Pastor Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.71178515,8.961041021 ]
+    },
+    "properties": {
+    "Place":"Jemo 1 Bus Station"
+    }
+  }
+]
+}
